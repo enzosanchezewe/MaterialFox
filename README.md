@@ -35,6 +35,6 @@ Replicate Chrome's "Not Secure" text on HTTP:
 * [about:config] Set ```security.insecure_connection_text.enabled``` to ```true```.
 
 ## Please note
-* Linux is not frequently tested; last tested on 21/05/2019.
+* Linux is not frequently tested; last tested on 09/04/2020.
 * Some customisation settings may no longer work (such as compact/touch density).
 * Some custom themes may clash with address bar.
